@@ -1,11 +1,11 @@
-# MoS<sup>2</sup>
+# MoS<sub>2</sub>
 Refractive Index / Complex Electrical Permittivity / Conductivity of monolayer MoS2
 
 This python code calculates refractive index and/or complex electrical permittivity and/or conductivity of monolayer MoS2 as functions of wavelength (m), Fermi Energy level (eV), and temperature (K).
 
 If you use this code or its MATLAB version, please cite the following reference.
 
-Reference: B. Mukherjee, F. Tseng, D. Gunlycke, K. K. Amara, G. Eda, and E. Simsek, "Complex electrical permittivity of the monolayer molybdenum disulfide (MoS2) in near UV and visible," Optical Materials Express, vol. 5, no. 2, pp. 447-455 (2015). [Download] 
+B. Mukherjee, F. Tseng, D. Gunlycke, K. K. Amara, G. Eda, and E. Simsek, "Complex electrical permittivity of the monolayer molybdenum disulfide (MoS2) in near UV and visible," Optical Materials Express, vol. 5, no. 2, pp. 447-455 (2015). [Download] 
 
 
 To see an example, run "plotMoS2epsnk"
